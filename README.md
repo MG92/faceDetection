@@ -1,7 +1,7 @@
 faceDetection
 ==============================
 
-Python project fto detect faces in news images
+Python project to detect (and identify) faces in news images
 
 Project Organization
 ------------
